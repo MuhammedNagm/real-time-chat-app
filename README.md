@@ -1,4 +1,4 @@
-![screenshot](http://prntscr.com/p6gsbv)
+![screenshot](https://image.prntscr.com/image/awG1lnQARGK6xJAHhUP7Mw.png)
 
 # real-time-chat-app
 real time chat app using socket.io, nodejs, bootstrap
